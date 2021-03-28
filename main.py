@@ -7,7 +7,7 @@ import random
 from discord.ext import commands
 
 # Donner le token pour que le bot se connecte
-token = "Nzc3NTI2MjU4Nzk1OTM3Nzky.X7EtwQ.ubIEHtAGXjb3GLoBv6J9uOPyifk"
+token = "Your token"
 
 # pour le footer de l'embed
 funFact = ["L'eau mouille",
